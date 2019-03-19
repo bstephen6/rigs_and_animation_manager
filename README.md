@@ -28,4 +28,3 @@ A tool for managing rig and animation assets, and baking animations back onto ri
 * Add the rig into the scene.
 *  *A* Bake the desired animation onto the rig..
    ..*B* Attempt to bake any searched animations to the rig. Which will attempt.. ..to bake the animation for any matching joints
-    S
