@@ -26,6 +26,6 @@ A tool for managing rig and animation assets, and baking animations back onto ri
 * This will populate the animations scroll field with any animations that rig has..     ..associated with it. the user can also add any animations made to the..            ..library for that rig
     
 * Add the rig into the scene.
-*  *A* Bake the desired animation onto the rig
-   *B* Attempt to bake any searched animations to the rig. which will attempt to..        ..bake the animation for any matching joints
-    
+*  *A* Bake the desired animation onto the rig..
+   ..*B* Attempt to bake any searched animations to the rig. Which will attempt.. ..to bake the animation for any matching joints
+    S
